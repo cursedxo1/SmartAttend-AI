@@ -1,0 +1,6 @@
+{
+  "name": "SmartAttend AI",
+  "description": "Smart attendance system using face recognition, course management, and automated reporting.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
